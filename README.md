@@ -5,3 +5,4 @@ web-serial-mcu-programmer
 - [jacobrosenthal/js-stk500v1: Fully javascript stk500 programmer](https://github.com/jacobrosenthal/js-stk500v1)
 - [Page Title](https://dbuezas.github.io/arduino-web-uploader/)
 - [stm-serial-flasher/src/api/WebSerial.js at master · Gamadril/stm-serial-flasher](https://github.com/Gamadril/stm-serial-flasher/blob/master/src/api/WebSerial.js)
+- [grigorig/stcgal: Open Source STC MCU ISP flash tool](https://github.com/grigorig/stcgal/tree/master)
